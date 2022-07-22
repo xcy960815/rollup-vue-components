@@ -1,1 +1,8 @@
 node_modules/
+example/
+src/
+.babelrc
+.gitignore
+pageckage-lock.json
+rollup.config.js
+vue.config.js
